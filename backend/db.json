@@ -1,46 +1,53 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev da madrugada",
-      "modelo": "modelo3"
+      "id": 9,
+      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
+      "autoria": "Chaves",
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
-      "conteudo": "Vc faz TI? Conserta meu celular!",
-      "autoria": "Grupo da família",
+      "id": 17,
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça você deve.",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 27
+    },
+    {
+      "conteudo": "A vida é uma oportunidade para expressar nossa individualidade e autenticidade.",
+      "autoria": "Nietzsche",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 30
+    },
+    {
+      "conteudo": "Tudo posso naquele que me fortalece.",
+      "autoria": "Filipenses 4:13",
       "modelo": "modelo2",
-      "id": 4
+      "favorito": true,
+      "id": 31
     },
     {
-      "conteudo": "Já tentou reiniciar o roteador?",
-      "autoria": "Pessoa da operadora",
+      "conteudo": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito bela para ser insignificanteLute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito bela para ser insignificante",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 32
+    },
+    {
+      "conteudo": "Mesmo desacreditado e ignorado por todos, não posso desistir, pois para mim, vencer é nunca desistir.",
+      "autoria": "Albert Einstein",
       "modelo": "modelo3",
-      "id": 5
-    },
-    {
-      "conteudo": "Por que meu código funcionou?",
-      "autoria": "Dev ",
-      "modelo": "modelo1",
-      "id": 6
-    },
-    {
-      "conteudo": "Na volta a gente compra!",
-      "autoria": "Mãe",
-      "modelo": "modelo2",
-      "id": 7
-    },
-    {
-      "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
-      "autoria": "Devs",
-      "modelo": "modelo1",
-      "id": 9
-    },
-    {
-      "id": 13,
-      "conteudo": "Que a força esteja com vc!",
-      "autoria": "Mestre Yoda!",
-      "modelo": "modelo1"
+      "favorito": false,
+      "id": 33
     }
   ]
 }
